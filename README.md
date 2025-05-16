@@ -70,6 +70,6 @@ A new sheet named `Monthly_Report` is created in the same Excel file (`Credit_Ba
 3. Open the .ipynb file in Jupyter Notebook and run all cells.
 4. Check the Excel output in the same directory.
 
-Contact
-Created by Priyanshu Tiwari
-Feel free to reach out for questions/suggestions
+##Contact
+- Created by Priyanshu Tiwari
+- Feel free to reach out for questions/suggestions
