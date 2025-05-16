@@ -1,4 +1,4 @@
-# bank_customer_data_cleaning_project
+# Bank Customer Data Cleaning Project
 This project analyzes customer-level banking data to evaluate monthly spending, repayments, outstanding dues, and applies an interest rate to calculate bank profits. It includes data wrangling, monthly summaries, visualizations, and interest computations using Python (Pandas and Matplotlib), all presented in a Jupyter notebook.
 
 # Credit Banking Project
@@ -70,6 +70,6 @@ A new sheet named `Monthly_Report` is created in the same Excel file (`Credit_Ba
 3. Open the .ipynb file in Jupyter Notebook and run all cells.
 4. Check the Excel output in the same directory.
 
-##Contact
+## Contact
 - Created by Priyanshu Tiwari
 - Feel free to reach out for questions/suggestions
